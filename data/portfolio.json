@@ -1,18 +1,21 @@
 [
     {
         "image": "image1.png",
+        "image_alt": "Image du projet Booki",
         "title": "Booki",
         "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
         "link": "#"
     },
     {
         "image": "image2.png",
+        "image_alt": "Image du projet Mon Vieux Grimoire",
         "title": "Mon Vieux grimoire",
         "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
         "link": "#"
     },
     {
         "image": "image3.png",
+        "image_alt": "Image du projet Kasa",
         "title": "Kasa",
         "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
         "link": "#"
