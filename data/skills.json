@@ -1,38 +1,38 @@
 [
     {
-        "image": "html-css.jpg",
-        "image_alt": "Icône HTML-CSS",
-        "title": "HTML - CSS",
-        "text": "Intégration d’interfaces responsives et accessibles, utilisation de maquettes Figma, développement d’animations CSS"
+        "image": "test.png",
+        "image_alt": "Icône Méthodologies de Tests",
+        "title": "Méthodologies",
+        "text": "Automatisation de tests E2E et API, tests fonctionnels et exploratoires, définition d’une stratégie de test et rédaction d'un cahier de recette."
     },
     {
-        "image": "js.jpg",
-        "image_alt": "Icône JavaScript",
-        "title": "JavaScript",
-        "text": "Manipulation du DOM, création d’éléments dynamiques, gestion de données de formulaires"
-    },
-    {
-        "image": "react.jpg",
-        "image_alt": "Icône React",
-        "title": "React",
-        "text": "Création d’applications React, création de composants et manipulation de leur état"
-    },
-    {
-        "image": "gestion-de-projet.png",
-        "image_alt": "Icône Gestion de Projet",
+        "image": "project-management.png",
+        "image_alt": "Icônes Gestion de Projet",
         "title": "Gestion de Projet",
-        "text": "Analyse des besoins d’un client, définition d’une solution technique répondant aux besoins fonctionnelle, planification du projet"
+        "text": "Analyse des besoins d’un client, définition d’une solution technique répondant aux besoins fonctionnels, planification du projet.<br/> Méthodes Agile & Scrum, Kanban."
     },
     {
         "image": "optimisation-et-debug.png",
         "image_alt": "Icône Optimisation et Debug",
-        "title": "Optimisation et Debug",
-        "text": "Identification des anomalies et correction d’un site existant, optimisation SEO et performance et publication d’un site en ligne"
+        "title": "Optimisations & Debug",
+        "text": "Identification des anomalies et correction d’un site existant. Optimisations performance, accessibilité et SEO."
     },
     {
-        "image": "test.png",
-        "image_alt": "Icône Tests",
-        "title": "Tests",
-        "text": "Tests exploratoires, unitaires et d’intégration, définition d’une stratégie de test et d’un rédaction d’un cahier de recette, automatisation de tests E2E et d’API"
+        "image": "test-tools.png",
+        "image_alt": "Icônes Outils de Test",
+        "title": "Outils de Test",
+        "text": "Cypress, Postman, Jira, Chrome Debugger"
+    },
+    {
+        "image": "dev-tools.png",
+        "image_alt": "Icônes Outils de Développement",
+        "title": "Outils de Développement",
+        "text": "VSCode, Docker, Figma, Git & GitHub"
+    },
+    {
+        "image": "languages-frameworks.png",
+        "image_alt": "Icônes Langages et Frameworks",
+        "title": "Langages & Frameworks",
+        "text": "HTML, CSS, JavaScript, React"
     }
 ]

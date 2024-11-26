@@ -1,23 +1,44 @@
 [
     {
-        "image": "image1.png",
-        "image_alt": "Image du projet Booki",
-        "title": "Booki",
-        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-        "link": "#"
+        "image": "tomsen.png",
+        "image_alt": "Image du projet TOMSEN",
+        "title": "TOMSEN",
+        "text": "Stratégie de test complète pour une application financière, avec analyse des exigences, rédaction d’un cahier de recette et planification alignée sur des sprints agiles.",
+        "link": "https://drive.google.com/drive/folders/1MBmD_NWchNDs-Yx7_fb_NMNOjInxBlZs?usp=sharing"
     },
     {
-        "image": "image2.png",
-        "image_alt": "Image du projet Mon Vieux Grimoire",
-        "title": "Mon Vieux grimoire",
-        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-        "link": "#"
+        "image": "eco-bliss-bath.png",
+        "image_alt": "Image du projet Eco-Bliss-Bath",
+        "title": "Eco Bliss Bath",
+        "text": "Automatisation de tests critiques pour une boutique en ligne écoresponsable, utilisation de Cypress et bilan détaillé des anomalies détectées.",
+        "link": "https://drive.google.com/drive/folders/1vcS4fsTaLtpvHp641TAP0BUfH6W7O7LW?usp=sharing"
     },
     {
-        "image": "image3.png",
+        "image": "menu-maker.png",
+        "image_alt": "Image du projet Menu-Maker",
+        "title": "MenuMaker by Qwenta",
+        "text": "Planification du développement d'un site web, rédaction des spécifications techniques et organisation des tâches via un tableau Kanban.",
+        "link": "https://drive.google.com/drive/folders/1I6F6yFWdiG-kDTJaahwCyn0gxojysI9m?usp=sharing"
+    },
+    {
+        "image": "kasa.png",
         "image_alt": "Image du projet Kasa",
         "title": "Kasa",
-        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-        "link": "#"
+        "text": "Application React pour la location immobilière, composants dynamiques, navigation fluide avec React Router et structure front-end moderne.",
+        "link": "https://github.com/arnault-chartier/p8-kasa/tree/etape-12-tests-unitaires-composants/src"
+    },
+    {
+        "image": "sophie-bluel.png",
+        "image_alt": "Image du projet Sophie-Bluel",
+        "title": "Sophie Bluel",
+        "text": "Création d’une page web dynamique pour une architecte d'intérieur, gestion du DOM, communication avec une API et conception d’une interface interactive.",
+        "link": "https://github.com/arnault-chartier/P7-Sophie-Bluel/tree/etape-4-verification-ensemble-projet/FrontEnd"
+    },
+    {
+        "image": "booki.png",
+        "image_alt": "Image du projet Booki",
+        "title": "Booki",
+        "text": "Intégration d’une interface responsive pour une agence de voyage, respect des maquettes Figma avec HTML et CSS.",
+        "link": "https://github.com/arnault-chartier/P3-Booki/tree/etape-10-responsive"
     }
 ]

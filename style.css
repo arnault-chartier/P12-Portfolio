@@ -4,8 +4,8 @@
 #skills,
 #portfolio,
 #contact {
-    margin-top: 4rem;
-    padding-top: 4rem;
+    margin-top: 2rem;
+    padding-top: 2rem;
 }
 
 #about h2,
@@ -13,6 +13,8 @@
 #portfolio h2,
 #contact h2 {
     margin-bottom: 3rem;
+    color: #198754;
+    font-weight: bold;
 }
 
 #contact {
@@ -21,7 +23,9 @@
 
 /* navbar */
 .navbar-brand {
+    font-weight: bold;
     background-color: rgba(0, 0, 0, 0.5);
+    padding: 10px;
 }
 
 .navbar-toggler-icon {
@@ -29,19 +33,20 @@
 }
 
 .nav-link {
+    font-weight: bold;
     background-color: rgba(0, 0, 0, 0.5);
 }
 
 /* display background dark color on navbar scroll */
 .navbarScroll.navbarDark {
-    background-color: #5b5b5b;
+    background-color: white;
 }
 
 /* hero background image */
 .bgimage {
     height: 100vh;
     max-height: 900px;
-    background: url("images/image1.jpg");
+    background: url("images/background.jpg");
     background-size: cover;
     position: relative;
 }
@@ -50,11 +55,13 @@
 .hero_title {
     font-size: 4.5rem;
     background-color: rgba(0, 0, 0, 0.5);
+    padding: 10px;
 }
 
 .hero_desc {
     font-size: 2rem;
     background-color: rgba(0, 0, 0, 0.5);
+    padding: 10px;
 }
 
 .hero-text {
@@ -64,16 +71,31 @@
     left: 50%;
     transform: translate(-50%, -50%);
     color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 /* about */
+.profile-picture {
+    padding-bottom: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 .imageAboutPage {
-    width: 100%;
+    width: 75%;
 }
 
 .imageAboutPage {
     border-radius: 50%;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+}
+
+.about-text {
+    font-size: 1.2rem;
+    font-weight: 500;
 }
 
 /* skills */
@@ -114,6 +136,11 @@
     text-align: center;
 }
 
+.portfolioContent:hover {
+    border: 1px solid #008000;
+    transition: border 0.3s ease;
+}
+
 /* contact */
 .contactColumn {
     display: flex;
@@ -123,6 +150,13 @@
 
 .contactColumn i {
     color: #198754;
+}
+
+.contactColumn a {
+    padding-top: 20px;
+    font-size: 1.2rem;
+    font-weight: 500;
+    color: black;
 }
 
 /* footer */
