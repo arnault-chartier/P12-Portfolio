@@ -1,36 +1,36 @@
 [
     {
-        "image": "test.png",
+        "image": "test.webp",
         "image_alt": "Icône Méthodologies de Tests",
         "title": "Méthodologies",
         "text": "Automatisation de tests E2E et API, tests fonctionnels et exploratoires, définition d’une stratégie de test et rédaction d'un cahier de recette."
     },
     {
-        "image": "project-management.png",
+        "image": "project-management.webp",
         "image_alt": "Icônes Gestion de Projet",
         "title": "Gestion de Projet",
         "text": "Analyse des besoins d’un client, définition d’une solution technique répondant aux besoins fonctionnels, planification du projet.<br/> Méthodes Agile & Scrum, Kanban."
     },
     {
-        "image": "optimisation-et-debug.png",
+        "image": "optimisation-et-debug.webp",
         "image_alt": "Icône Optimisation et Debug",
         "title": "Optimisations & Debug",
         "text": "Identification des anomalies et correction d’un site existant. Optimisations performance, accessibilité et SEO."
     },
     {
-        "image": "test-tools.png",
+        "image": "test-tools.webp",
         "image_alt": "Icônes Outils de Test",
         "title": "Outils de Test",
         "text": "Cypress, Postman, Jira, Chrome Debugger"
     },
     {
-        "image": "dev-tools.png",
+        "image": "dev-tools.webp",
         "image_alt": "Icônes Outils de Développement",
         "title": "Outils de Développement",
         "text": "VSCode, Docker, Figma, Git & GitHub"
     },
     {
-        "image": "languages-frameworks.png",
+        "image": "languages-frameworks.webp",
         "image_alt": "Icônes Langages et Frameworks",
         "title": "Langages & Frameworks",
         "text": "HTML, CSS, JavaScript, React"
