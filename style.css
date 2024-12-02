@@ -39,7 +39,7 @@
 
 /* display background dark color on navbar scroll */
 .navbarScroll.navbarDark {
-    background-color: white;
+    background-color: #5b5b5b;
 }
 
 /* hero background image */
@@ -55,11 +55,13 @@
 .hero_title {
     font-size: 3rem;
     background-color: rgba(0, 0, 0, 0.5);
+    padding: 10px;
 }
 
 .hero_desc {
     font-size: 2rem;
     background-color: rgba(0, 0, 0, 0.5);
+    padding: 10px;
 }
 
 .hero-text {
@@ -130,6 +132,10 @@
 }
 
 /* portfolio */
+.portfolioContent.card {
+    height: 400px;
+}
+
 #portfolio p {
     text-align: center;
 }
